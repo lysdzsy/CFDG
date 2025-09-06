@@ -5,6 +5,7 @@ Causal Feature-aware Dynamic Graph Neural Network for Open-Set Domain Generaliza
 pytorch 1.12.0
 
 python 3.9.19
+
 numpy 1.23.0
 pandas 2.2.2
 pytorch-lightning 1.8.6
