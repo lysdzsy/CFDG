@@ -7,18 +7,30 @@ pytorch 1.12.0
 python 3.9.19
 
 numpy 1.23.0
+
 pandas 2.2.2
+
 pytorch-lightning 1.8.6
+
 relpath 3.0.5
+
 seaborn 0.13.2
+
 torch 2.4.0
+
 torch-geometric 2.6.0
+
 torchvision 0.19.0
+
 tqdm 4.66.5
+
 # How to Train
 python train.py --mode train
+
 python train.py --mode test -d D_public E_public F_public
 # Reference
 This paper was submitted to Advanced Engineering Informatics and is currently in the second round of review. The following papers were used as references for this code.
+
 1.TodyNet: Temporal dynamic graph neural network for multivariate time series classification 
+
 2.Out-of-Distribution Generalization on Graphs via Progressive Inference
