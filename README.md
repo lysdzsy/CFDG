@@ -3,6 +3,7 @@ Causal Feature-aware Dynamic Graph Neural Network for Open-Set Domain Generaliza
 ![framework](https://github.com/user-attachments/assets/2446debc-b9b1-4278-bb57-54580b8cc217)
 # Dependencies
 pytorch 1.12.0
+
 python 3.9.19
 numpy 1.23.0
 pandas 2.2.2
