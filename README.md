@@ -29,8 +29,8 @@ python train.py --mode train
 
 python train.py --mode test -d [dataset]
 # Reference
-This paper was submitted to Advanced Engineering Informatics and is currently in the second round of review. The following papers were used as references for this code.
+This paper was submitted to IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS and is currently in the second round of review. The following papers were used as references for this code.
 
-1.TodyNet: Temporal dynamic graph neural network for multivariate time series classification 
+1.Improvements of Discriminative Feature Space Training for Anomalous Sound Detection in Unlabeled Conditions
 
-2.Out-of-Distribution Generalization on Graphs via Progressive Inference
+2.Disentangling Hierarchical Features for Anomalous Sound Detection Under Domain Shift
